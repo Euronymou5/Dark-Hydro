@@ -1,0 +1,5 @@
+opencage
+phonenumbers
+requests
+colorama
+google
