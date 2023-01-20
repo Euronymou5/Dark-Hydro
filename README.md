@@ -23,6 +23,15 @@
 
 * Ubuntu
 
+# Configuracion
+
+**Antes de usar la herramienta es necesario configurar las apikeys de:**
+
+**https://numverify.com/**
+
+**https://opencagedata.com/**
+
+**Despues de tener las apikeys es necesario colocarlas en el archivo** *config.json* **En orden cada una.**
 
 # Instalacion
 
