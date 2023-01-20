@@ -48,6 +48,10 @@ pip3 install -r requirements.txt
 python3 main.py
 ```
 
+## Imagenes
+
+<img src="https://media.discordapp.net/attachments/995599976463859713/1066133545468305418/image.png?width=675&height=295">
+
 # Contacto
 
 *Discord: Euronymou5#3155*
