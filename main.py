@@ -67,7 +67,7 @@ def menu():
   lat = results[0]['geometry']['lat']
   lng = results[0]['geometry']['lng']
   # --- Phonenumbers --- #
-  print(f'\n[~] Pais: {location}')
+  print(f'\n[~] Municipio: {location}')
   print(f'[~] Latitud: {lat}')
   print(f'[~] Longitud: {lng}')
   # --- Dorking --- #
