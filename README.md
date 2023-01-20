@@ -2,17 +2,17 @@
 **Dark-Hydro es una herramienta de osint completa para un numero telefonico.**
 
 **Con Dark-Hydro puedes obtener:**
-  **- Codigo del pais**
+  *- Codigo del pais*
 
-  **- Nombre del pais**
+  *- Nombre del pais*
 
-  **- Ubicacion del numero de telefono (Ciudad)**
+  *- Ubicacion del numero de telefono (Ciudad)*
 
-  **- Transportador**
+  *- Transportador*
 
-  **- Latitud y Longitud**
+  *- Latitud y Longitud*
 
-  **- Busquedas de dorking archivos pdf, redes sociales, donde el numero telefonico ha sido encontrado**
+  *- Busquedas de dorking archivos pdf, redes sociales, donde el numero telefonico ha sido encontrado*
 
 
 # Instalacion
