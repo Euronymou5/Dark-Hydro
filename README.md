@@ -15,6 +15,14 @@
 
   *- Busquedas de dorking archivos pdf, redes sociales, donde el numero telefonico ha sido encontrado*
 
+## Probado en:
+
+* Kali Linux
+
+* Parrot OS
+
+* Ubuntu
+
 
 # Instalacion
 
