@@ -3,11 +3,16 @@
 
 **Con Dark-Hydro puedes obtener:**
   **- Codigo del pais**
+
   **- Nombre del pais**
+
   **- Ubicacion del numero de telefono (Ciudad)**
+
   **- Transportador**
+
   **- Latitud y Longitud**
-  **- Busquedas de dorking archivos pdf, redes sociales, donde el numero telefonico ha sido encontrado*
+
+  **- Busquedas de dorking archivos pdf, redes sociales, donde el numero telefonico ha sido encontrado**
 
 
 # Instalacion
