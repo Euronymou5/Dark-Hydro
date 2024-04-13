@@ -74,7 +74,7 @@ options:
 
 > Ejemplo de uso basico
 ```
-    python3 main.py -n +19496660724 -phonenumbers
+python3 main.py -n +19496660724 -phonenumbers
 ```
 >Mas de una api en el escaneo
 ```
