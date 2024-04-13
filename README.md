@@ -4,15 +4,15 @@ Dark-Hydro es una herramienta de OSINT creada en Python con el objetivo de recop
 
 Con Dark-Hydro es pobible obtener:
 
->- Codigo del pais_
+>- Codigo del pais
 
-> - Nombre del pais_
+> - Nombre del pais
 
->- Ubicacion del numero de telefono (Ciudad)_
+>- Ubicacion del numero de telefono (Ciudad)
 
-> - Transportador_
+> - Transportador
 
->- Latitud y Longitud_
+>- Latitud y Longitud
 
 >- Búsquedas de dorking archivos pdf, redes sociales, paginas web, donde el numero telefónico ha sido encontrado
 
