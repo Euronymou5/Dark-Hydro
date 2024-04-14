@@ -176,7 +176,10 @@ def scan():
             resultados = search(dorks, tld, num=valor_entero, stop=valor_entero, pause=valor_entero)
             for resultados_obtenidos in resultados:
                print(f'{Fore.GREEN}\n[ ✔  ] Busqueda encontrada!: {resultados_obtenidos}')
-    else:
+
+if args.numero:
+    scan()
+else:
        print(f'''{Fore.RED}[!] ERROR: Debes agregar algun argumento de escaneo: 
              
       -phoneinfoga          Añadir escaneo de la tool phoneinfoga.
@@ -187,9 +190,3 @@ def scan():
       -veriphone            Añadir escaneo con VeriPhone.
       -dork                 Añadir escaneo con google dorking.
        ''')
-
-if args.numero:
-    scan()
-else:
-    print(f'{Fore.RED}[!] ERROR: Debes de ingresar un numero telefonico.\n[~] Ejemplo: python3 main.py -n <numero>')
-    sys.exit(1)
